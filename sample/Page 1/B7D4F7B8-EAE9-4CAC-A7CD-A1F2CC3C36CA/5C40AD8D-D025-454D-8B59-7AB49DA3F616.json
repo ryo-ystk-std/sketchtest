@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5C40AD8D-D025-454D-8B59-7AB49DA3F616",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 375,
+    "x": 0,
+    "y": 618
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "lv3/bar/tab",
+  "nameIsFixed": false,
+  "overrides": {
+    "04015ADC-5C07-4960-8A9F-C8625980C4E4": {
+      "0DDD6E85-11A3-4ABE-8126-EC5429F0E6B1": " ",
+      "3EC20645-1824-44FD-B158-4F056D33EB32": {
+        "0CD739D1-F504-449C-9158-B1EC70269081": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "57715833-AD77-4284-AD3E-E57B29DBE2F6": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "78A5CD5A-BE59-41EA-AEE5-A05588DA5233": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "symbolID": "1F9EBAE3-5B03-4D67-994E-B757C99EE52C"
+      },
+      "44E40925-A281-40EB-9499-9B9B164A7958": "お知らせ"
+    },
+    "05A1D0EB-48F2-451F-A4ED-28CCAB9EBACF": {
+      "0DDD6E85-11A3-4ABE-8126-EC5429F0E6B1": "ホーム",
+      "3EC20645-1824-44FD-B158-4F056D33EB32": {
+        "symbolID": "C34F75D6-0756-457B-B123-E11DD93F2F5B"
+      },
+      "44E40925-A281-40EB-9499-9B9B164A7958": " ",
+      "symbolID": "37CDAA81-579D-426F-AD23-35AD9395EAFB"
+    },
+    "0AB97FE0-D89C-418E-90D9-B5F993EBACE4": {
+      "0DDD6E85-11A3-4ABE-8126-EC5429F0E6B1": " ",
+      "3EC20645-1824-44FD-B158-4F056D33EB32": {
+        "382EA161-429B-45BE-841E-B05B1E1095EB": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "57715833-AD77-4284-AD3E-E57B29DBE2F6": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "symbolID": "C51DCAB0-E715-4C1F-8597-279D028B680F"
+      },
+      "44E40925-A281-40EB-9499-9B9B164A7958": "プロフィール"
+    },
+    "AB1F362F-A9AD-4610-B4E6-2A438A576DA2": {
+      "0DDD6E85-11A3-4ABE-8126-EC5429F0E6B1": " ",
+      "3EC20645-1824-44FD-B158-4F056D33EB32": {
+        "0F08342C-0A2D-42EC-B5E0-B384F08FA326": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "F93CF057-C69B-4A35-85C8-8BA909A3A492": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "symbolID": "C93D3463-8C23-402D-BCD9-49B493A9BA33"
+      },
+      "44E40925-A281-40EB-9499-9B9B164A7958": "出品する"
+    },
+    "EDA22BB0-AF40-4329-9578-21F36A73FA39": {
+      "0DDD6E85-11A3-4ABE-8126-EC5429F0E6B1": " ",
+      "3EC20645-1824-44FD-B158-4F056D33EB32": {
+        "0CD739D1-F504-449C-9158-B1EC70269081": {
+          "symbolID": "345300C0-1072-4495-BD6C-87AD3CB00E7D"
+        },
+        "symbolID": "F12BEEB3-A353-454F-86C8-CAD3AC5054F2"
+      },
+      "44E40925-A281-40EB-9499-9B9B164A7958": "さがす"
+    }
+  },
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8372A547-101D-49EF-AFB3-B23A858B5F6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

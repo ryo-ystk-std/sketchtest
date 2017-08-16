@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8BB45E0C-2573-4126-B22E-87DBFA7D572A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 181,
+    "width": 181,
+    "x": 185,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "lv3/block/timeline_thumb",
+  "nameIsFixed": false,
+  "overrides": {
+    "23C476CD-18E1-42F1-99DB-ED99A65C48B3": {
+      "39C3C484-10E8-4B27-A0AD-8D53F254AFBE": "¥ 30,000"
+    },
+    "CF1C23DD-93C6-4D51-9EC6-0FE320E7004E": {
+      "1371698F-4C49-480F-9723-D7777976544D": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/34249d3121f5711b68d7f33c76a7a7028c4aacb0",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D795FA8F-2F18-4C8B-8998-86F6A5790F1B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 181,
+            "enabled": 1,
+            "modelID": "constraint_d0b2d9d8-8b40-4a34-8349-bb83e0e220ef",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 181
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3f3bcba7-b16b-44ef-9614-299f2d411616",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a09f2aa2-c534-4b37-90e7-d34e9b3913e5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.4945355
+          }
+        }
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "35B3E453-069F-46BA-856E-E1F105B963D4",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
